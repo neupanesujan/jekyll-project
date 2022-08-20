@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Sujan Neupane!"
 date:   2022-05-01 00:32:01 +0545
 categories: jekyll update
 layout: posts
